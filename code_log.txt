@@ -1,0 +1,9 @@
+2023-12-29 20:00:06 : Preliminaries complete. Initiating ETL process
+2023-12-29 20:00:06 : Data extraction started
+2023-12-29 20:00:08 : Data extraction complete. Initiating Transformation process
+2023-12-29 20:01:37 : Preliminaries complete. Initiating ETL process
+2023-12-29 20:01:37 : Data extraction started
+2023-12-29 20:01:39 : Data extraction complete. Initiating Transformation process
+2023-12-29 20:10:50 : Preliminaries complete. Initiating ETL process
+2023-12-29 20:10:50 : Data extraction started
+2023-12-29 20:10:52 : Data extraction complete. Initiating Transformation process
